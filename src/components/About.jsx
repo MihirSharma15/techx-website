@@ -25,7 +25,7 @@ const About = () => {
         </p>
         <button class="block w-[200px] mx-auto bg-[#DB5461] rounded-md font-medium my-6 py-3 text-black text-center hover:scale-110 ease-in-out duration-300" onClick={handleClass}>My Favorite Classes ⬇️</button>
         <div className={!favClass ? 'text-white ease-in-out duration-300' : 'text-black mt-[px] ease-in-out duration-300'}>
-          <h1>My Favorite Class is Hindi 101</h1>
+          <h1>My Favorite Class is Hindi Urdu 101</h1>
 
         </div>
 
